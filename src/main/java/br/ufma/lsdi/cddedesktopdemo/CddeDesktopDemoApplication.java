@@ -5,7 +5,6 @@ import br.ufma.lsdi.cddl.Connection;
 import br.ufma.lsdi.cddl.ConnectionFactory;
 import br.ufma.lsdi.cddl.message.Message;
 import br.ufma.lsdi.cddl.pubsub.*;
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.greenrobot.eventbus.EventBus;
 import org.springframework.boot.CommandLineRunner;
